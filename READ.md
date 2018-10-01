@@ -5,8 +5,7 @@
 #### Taipei Tech
 
 ### TA's webpage
-https://ssl-gitlab.csie.ntut.edu.tw/root/POSD2018f_Assignment/tree/master)
-
+You Don't now
 ## Synapsis
 
 We will learn object-oriented design patterns by solving two problems in class:
@@ -90,4 +89,4 @@ File systems differ in different operating systems. In this problem, we shall as
 
 __Check TA's webpage for first assignment!!__
 
-https://ssl-gitlab.csie.ntut.edu.tw/root/POSD2018f_Assignment/tree/master)
+You Don't now
